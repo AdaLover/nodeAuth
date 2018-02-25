@@ -1,0 +1,13 @@
+.centerUtil {
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  border: 0.5px solid black;
+  padding: 100px;
+}
+.marginBottomSmallUtil {
+  margin-bottom: 10px;
+}
+.registerInput {
+  width: 20rem;
+}

@@ -1,0 +1,9 @@
+.centerUtil {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  border: 1px solid blue;
+}
+.registerInput {
+  width: 20rem;
+}

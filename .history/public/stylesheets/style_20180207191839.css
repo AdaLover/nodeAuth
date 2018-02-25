@@ -1,0 +1,8 @@
+.centerUtil {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+}
+.registerInput {
+  width: 20rem;
+}
